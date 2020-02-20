@@ -16,7 +16,7 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe
 `docker-compose down`
 
 ## Contributing
-### Add a new datasource
+### Adding a new datasource
 #### Create a table create migration to configure a new table for your new data source:
 
 Example: 
