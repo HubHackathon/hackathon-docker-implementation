@@ -21,10 +21,10 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe
 
 Example: 
 
-`https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/1_earth-surface-global-temps_create-table.sql`
+https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/1_earth-surface-global-temps_create-table.sql
 
 #### Create a sql insert data migration to insert data into the newly created table
 
 Example: 
 
-`https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/2_earth-surface-global-temps_inserts.sql`
+https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/2_earth-surface-global-temps_inserts.sql
