@@ -5,7 +5,7 @@ Docker implementation for participants to easily access data sets.
 
 Docker Desktop:
 
-https://download.docker.com/mac/stable/Docker.dmg (Mac)
+https://download.docker.com/mac/stable/Docker.dmg (Mac)  
 https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe (Win)
 
 ## Build image and container
