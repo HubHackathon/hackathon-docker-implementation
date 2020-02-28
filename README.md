@@ -9,7 +9,10 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe
 
 ## Build image and container
 * From base directory run:
-`docker-compose up --build -d`
+`docker-compose up --build`
+
+* Follow server logs: (note: container name will be changing)
+`docker logs -f hackathon-docker-implementation_db_1`
 
 ## Tear down container
 * From base directory run:
