@@ -28,13 +28,3 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe (Win)
   * First run `docker exec -it hackathon-docker-implementation_db_1 /bin/bash`
   * Once connected to the container run `mysql --host=localhost --user=user --password=password hack_climate_change_2020`
 * User a DB visualization tool such as [MySQL Workbench](https://www.mysql.com/products/workbench/) or [DBeaver](https://dbeaver.io/download/)
-
-## Contributing
-### Adding a new datasource
-Create a table create migration to configure a new table for your new data source, for example: 
-
-https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/002_create_glacier_melt.sql
-
-Create a sql insert data migration to insert data into the newly created table, for example: 
-
-https://github.com/HubHackathon/hackathon-docker-implementation/blob/3951d83692f23c75ed930d048a809527a59793f5/config/003_insert_glacial_melt.sql
