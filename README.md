@@ -27,4 +27,4 @@ https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/conf
 
 Create a sql insert data migration to insert data into the newly created table, for example: 
 
-https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/003_insert_glacier_melt.sql
+https://github.com/HubHackathon/hackathon-docker-implementation/blob/3951d83692f23c75ed930d048a809527a59793f5/config/003_insert_glacial_melt.sql
