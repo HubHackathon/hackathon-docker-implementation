@@ -23,8 +23,8 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe (Win)
 ### Adding a new datasource
 Create a table create migration to configure a new table for your new data source, for example: 
 
-https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/1_earth-surface-global-temps_create-table.sql
+https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/002_create_glacier_melt.sql
 
 Create a sql insert data migration to insert data into the newly created table, for example: 
 
-https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/2_earth-surface-global-temps_inserts.sql
+https://github.com/HubHackathon/hackathon-docker-implementation/blob/master/config/003_insert_glacier_melt.sql
