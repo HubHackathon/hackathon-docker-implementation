@@ -12,7 +12,7 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe (Win)
 * From base directory run:
 `docker-compose up --build -d`
 
-* Follow server logs: (note: container name will be changing)
+* Follow server logs:
 `docker logs -f hackathon-docker-implementation_db_1`
 
 * If using Windows virtualization might need to be enabled:
