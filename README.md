@@ -26,5 +26,5 @@ https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe (Win)
 ## Query Data
 * Connect to the docker container:
   * First run `docker exec -it hackathon-docker-implementation_db_1 /bin/bash`
-  * Once connected to the container run `mysql --host=localhost --user=user --password=password hack_climate_change_2020`
+  * Once connected to the container run `mysql --host=localhost --port=13306 --user=user --password=password hack_climate_change_2020`
 * User a DB visualization tool such as [MySQL Workbench](https://www.mysql.com/products/workbench/) or [DBeaver](https://dbeaver.io/download/)
